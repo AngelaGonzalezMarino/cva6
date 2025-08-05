@@ -54,7 +54,7 @@ package cva6_config_pkg;
       RVZihpm: bit'(0),
       NrScoreboardEntries: unsigned'(8),
       PerfCounterEn: bit'(0),
-      MmuPresent: bit'(0),
+      MmuPresent: bit'(1),
       RVS: bit'(0),
       RVU: bit'(0),
       SoftwareInterruptEn: bit'(0),
